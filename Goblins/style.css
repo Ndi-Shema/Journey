@@ -83,3 +83,7 @@ section{
     line-height: 1.9;
     margin-bottom: 40px;
 }
+.hero-img img{
+    width: 700px;
+    height: auto;
+}
