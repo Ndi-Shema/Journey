@@ -196,5 +196,6 @@ section{
     .hero{
         height: 100%;
         gap: 1rem;
+        grid-template-columns: 1fr;
     }
 }
