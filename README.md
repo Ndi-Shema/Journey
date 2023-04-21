@@ -1,4 +1,5 @@
-<!--Portfolio Website-->
+# Portfolio Website
+
 This is the readme file for a portfolio website that showcases the skills and services of Shema Fred, a web developer and designer. The website is built using HTML, CSS, and JavaScript.
 
 * Table of Contents
@@ -8,10 +9,11 @@ This is the readme file for a portfolio website that showcases the skills and se
 * Usage
 * Credits
 
-<!--Introduction-->
+# Introduction.
+
 The portfolio website is a showcase of the web development and design skills of Shema Fred. The website is designed to provide visitors with an overview of the various services offered by Shema Fred. The website includes sections such as About Me, Services, and Contact Me.
 
-<!--Features-->
+# Features
 The website includes the following features:
 
 Navigation bar with links to various sections of the website
@@ -23,7 +25,7 @@ Services section with information about the web development and design services 
 
 Contact Me section with a call to action to collaborate on a project
 
-<!--Installation-->
+# Installation
 To install the website, follow these steps:
 
 Clone the repository using the following command:
@@ -33,14 +35,14 @@ Clone the repository using the following command:
 
 Navigate to the cloned repository using the following command:
 
-<!--cd {Portfolio}-->
+# cd {Portfolio}
 
 Open the index.html file in a web browser.
 
-<!--Usage-->
+# Usage
 To use the website, simply navigate to the index.html file in a web browser. From there, you can use the navigation bar to access the different sections of the website.
 
-<!--Credits-->
+# Credits
 The website was designed and developed by Shema Fred. The website uses the following third-party resources:
 
 Google Fonts ```(https://fonts.google.com/)```
